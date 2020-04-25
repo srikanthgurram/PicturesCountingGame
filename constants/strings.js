@@ -36,9 +36,10 @@ export default{
         SelectCountHelpText: 'Select the Count',
         ResultSummaryTitle: 'Result Summary',
         TotalRoundsTitle: 'Total Rounds',
-        PassResultTitle: 'Pail',
+        PassResultTitle: 'Pass',
         FailResultTitle: 'Fail',
-        SoreTitle: 'Sore'
+        ScoreTitle: 'Score',
+        GameOverTitle: 'Game Over'
     },
     TL: {
         HeaderText:"బొమ్మలు లెక్కిద్దాం",
@@ -79,6 +80,7 @@ export default{
         TotalRoundsTitle: 'మొత్తం రౌండ్లు',
         PassResultTitle: 'సరైనవి',
         FailResultTitle: 'తప్పులు',
-        SoreTitle: 'ఆటలో పాయింట్లు'        
+        ScoreTitle: 'ఆటలో పాయింట్లు',
+        GameOverTitle: 'ఆట సమాప్తం'
     }
 }
