@@ -179,12 +179,12 @@ const styles = StyleSheet.create({
     passText: {
         fontSize: 40,
         color: Colors.primary,
-        fontFamily: 'roboto-bold-italic'
+        fontFamily: 'Roboto-Bold'
     },
     failText: {
         fontSize: 40,
         color: Colors.errorText,
-        fontFamily: 'roboto-bold-italic'
+        fontFamily: 'Roboto-Bold'
     },
     buttonContainer:{
         flexDirection: 'row',

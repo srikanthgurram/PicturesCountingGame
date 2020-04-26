@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    fontFamily: 'roboto-light',
+    fontFamily: 'Roboto-Light',
     backgroundColor: Colors.screenBackground
   },  
   scrollView: {

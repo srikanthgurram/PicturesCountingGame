@@ -80,7 +80,7 @@ const styles=StyleSheet.create({
         // paddingHorizontal: 50,
     },
     body:{
-        fontFamily: 'roboto-light',
+        fontFamily: 'Roboto-Light',
         fontSize: 20
     },
     buttonContainer:{

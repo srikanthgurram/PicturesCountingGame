@@ -11,7 +11,7 @@ const BodyText = props => {
 
 const styles=StyleSheet.create({
     body:{
-        fontFamily: 'roboto-light',
+        fontFamily: 'Roboto-Light',
         fontSize: 20,
         paddingVertical: 5
     }

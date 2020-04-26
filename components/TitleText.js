@@ -12,7 +12,7 @@ const TitleText = props => {
 const styles=StyleSheet.create({
     title:{
         fontSize: 20,
-        fontFamily: 'roboto-bold',
+        fontFamily: 'Roboto-Bold',
         textAlign: 'center',
         paddingVertical: 10
     }
